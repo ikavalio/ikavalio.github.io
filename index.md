@@ -17,11 +17,11 @@ __Education:__
 
 [Belarus State University / Belaruski Dziarzhauny Universitet](https://bsu.by/).
 
-I studied data analysis and machine learning in bioinformatics (bacterial GWAS). We wrote a couple of papers on the subject, see a full list of them on a separate page.
+I studied data analysis and machine learning in bioinformatics (bacterial GWAS). We wrote a couple of papers on the subject, see a full list of them on [a separate page](/pubs).
 
 __Certificates:__
 
-I often take courses on [Coursera](https://www.coursera.org/), see a full list of courses I completed and certificates on a separate page.
+I often take courses on [Coursera](https://www.coursera.org/), see a full list of courses I completed and certificates on [a separate page](/certs).
 
 __Experience:__
 
