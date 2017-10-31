@@ -7,7 +7,7 @@ My native languages are Belarusian and Russian, but I speak English fluently and
 There are several ways to contact me:
 - __Email__: ivanich3d@gmail.com
 - __Skype__: ivan_kavaliou
-- __Linkedin__: https://www.linkedin.com/in/ivankavaliou/
+- __Linkedin__: [https://www.linkedin.com/in/ivankavaliou/](https://www.linkedin.com/in/ivankavaliou/)
 - __Address__: Dublin 7, Ireland (available on request)
 - __Phone__: (available on request)
 
@@ -15,7 +15,7 @@ __Education:__
 
 2009-2015, MSc in Computer Science and Applied Mathematics.
 
-_Belarus State University/Belaruski Dziarzhauny Universitet._
+[Belarus State University / Belaruski Dziarzhauny Universitet](https://bsu.by/).
 
 I studied data analysis and machine learning in bioinformatics (bacterial GWAS). We wrote a couple of papers on the subject, see a full list of them on a separate page.
 
@@ -25,7 +25,7 @@ I often take courses on [Coursera](https://www.coursera.org/), see a full list o
 
 __Experience:__
 
-2016-now: Software Development Engineer, Performance and Scalability Engineering, [Workday](https://www.workday.com/).
+_2016-now: Software Development Engineer, Performance and Scalability Engineering, [Workday](https://www.workday.com/)._
 - Evaluating performance and scalability of all custom and 3rd party microservices/applications used within Workday.
 - Reproducing and investigating complex production issues.
 - Profiling and benchmarking different layers of Workday stack: hardware, network, persistence, web tier, etc.
@@ -33,7 +33,7 @@ __Experience:__
 - Predicting systems' and applications' performance and utilization for large customer events, capacity planning.
 - Applications tuning and opimization.
 
-2011-2016: Lead Performance Engineer/Analyst, Performance Optimization Group, [EPAM Systems](https://www.epam.com/).
+_2011-2016: Lead Performance Engineer/Analyst, Performance Optimization Group, [EPAM Systems](https://www.epam.com/)._
 - Performance testing and optimization planning, presales activities.
 - Performance audit: hardware specs, software stacks and configuration, scalability estimations.
 - Test driven performance optimization: tests development, test infrastructure and automation setup (automated performance testing environments), test execution, results analysis, etc.
