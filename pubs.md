@@ -1,8 +1,3 @@
----
-title: Publications
-layout: post
----
-
 ## List of publications
 
 Thanks to R. Sergeev and A. Tuzikov for collaboration!
