@@ -1,8 +1,3 @@
----
-title: Certificates
-layout: post
----
-
 ## Certificates
 
 I often take courses at Coursera, here're my accomplishments so far:
