@@ -1,8 +1,3 @@
----
-layout: post
-title: Home Page
----
-
 ## Ivan Kavaliou
 
 Hi, I'm a performance engineer with 5+ years of experience. I live in Ireland, but I was born in [Belarus](https://en.wikipedia.org/wiki/Belarus) in early 90s. I hold a masters degree in Computer Science and Applied Mathematics from Belarus State University and I started my career in late 2011. 
