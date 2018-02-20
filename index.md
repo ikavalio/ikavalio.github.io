@@ -5,7 +5,7 @@ Hi, I'm a performance engineer with 5+ years of experience. I live in Ireland, b
 My native languages are Belarusian and Russian, but I speak English fluently and studied Spanish.
 
 There are several ways to contact me:
-- __Email__: ivanich3d@gmail.com
+- __Email__: ikavalio@protonmail.com
 - __Skype__: ivan_kavaliou
 - __Linkedin__: [https://www.linkedin.com/in/ivankavaliou/](https://www.linkedin.com/in/ivankavaliou/)
 - __Address__: Dublin 7, Ireland (available on request)
