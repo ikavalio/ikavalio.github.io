@@ -1,11 +1,11 @@
 ## Ivan Kavaliou
 
-Hi, I'm a performance engineer with 5+ years of experience. I live in Ireland, but I was born in [Belarus](https://en.wikipedia.org/wiki/Belarus) in early 90s. I hold a masters degree in Computer Science and Applied Mathematics from Belarus State University and I started my career in late 2011. 
+Hi, I'm a site reliability engineer. I used to work in performance engineering for almost 7 years. I live in Ireland, but I was born in [Belarus](https://en.wikipedia.org/wiki/Belarus) in early 90s. I hold a masters degree in Computer Science and Applied Mathematics from Belarus State University and I started my career in late 2011. 
 
 My native languages are Belarusian and Russian, but I speak English fluently and studied Spanish.
 
 There are several ways to contact me:
-- __Email__: ikavalio@protonmail.com
+- __Email__: ikavalio@pm.me
 - __Skype__: ivan_kavaliou
 - __Linkedin__: [https://www.linkedin.com/in/ivankavaliou/](https://www.linkedin.com/in/ivankavaliou/)
 - __Address__: Dublin 7, Ireland (available on request)
@@ -25,7 +25,9 @@ I often take courses on [Coursera](https://www.coursera.org/), see a full list o
 
 __Experience:__
 
-_2016-now: Software Development Engineer, Performance and Scalability Engineering, [Workday](https://www.workday.com/)._
+_2019-now: Site Reliability Engineer, Cloud Engineering, [MongoDB](https://www.mongodb.com/)._
+
+_2016-2019: Software Development Engineer, Performance and Scalability Engineering, [Workday](https://www.workday.com/)._
 - Evaluating performance and scalability of all custom and 3rd party microservices/applications used within Workday.
 - Reproducing and investigating complex production issues.
 - Profiling and benchmarking different layers of Workday stack: hardware, network, persistence, web tier, etc.
